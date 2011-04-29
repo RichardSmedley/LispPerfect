@@ -1,0 +1,11 @@
+Remember, back in the 80s, when word processors were based on mark-up? 
+WordPerfect 5.1 was the last of the mark-up-based word processors, running on DOS. The owner, Corel, decided to go WIMP (Windows, Icons, Menus, Pointers) with the 6.0 release.
+
+When I worked at HDRA, at Ryton Organic Gardens (Europe's largest organic gardening charity at the time), the secretaries refused to upgrade past 5.1 - they insisted that mark-up was quicker than any point-and-click.
+Later I heard about how MIT secretary pool trained every new recruit - even those on a six month placement - in TeX and LaTeX. Mark-up is king.
+Hard to remember this now that OpenOffice & LibreOffice have so much mindshare.
+
+Of course TeX is still unbeatable, but I doubt many general computer users will bother with it. Then again, WP is long forgotten - but for anyone who misses it I'm having a quick go at cloning it.
+Why? Do I miss it? No, actually the object of this exercise is to produce some useful, oroginal Lisp code to go alongside the code of others that I'll be using in http://teachyourkidstocode.org/
+
+
